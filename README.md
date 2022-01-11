@@ -1,3 +1,3 @@
 # Data Structures First Project
-The goal was to implement findAccessible algorithm with and without recursion.
+Implemention of findAccessible algorithm with and without recursion. <br />
 More info can find at progEx1.pdf file.
